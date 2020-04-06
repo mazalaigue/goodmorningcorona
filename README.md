@@ -1,15 +1,23 @@
-## Welcome to GitHub Pages
+# Bienvenu sur ce site de publication des videos de la chaine "Good Morning Corona"
+Comme beaucoup, la crise du covid a provoqué en moi le désire de m'exprimer et rendre compte de mon expérience.
+Plutôt que d'utiliser les plateformes des gafa pour héberger mes vidéos je me suis tourné vers des outils Open Source dans une démarche citoyenne responsable et collaborative.
+Ce site minimaliste a donc vocation à publier ces vidéo
 
-You can use the [editor on GitHub](https://github.com/mazalaigue/goodmorningcorona/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Lancement de la chronique radioponique "Good Morning Corona" 
+```La nature est plus forte que l'homme```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe src='https://www.engagemedia.org/Members/emnews/videos/coronavirus-infodemic/embed_view' frameborder='0' width='630' height='460' allowfullscreen></iframe>
 
-### Markdown
+### La video 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Références  
+Voir vidéo suivante 
 
-```markdown
-Syntax highlighted code block
+### "Good Morning Corona"  
+#### La video 
+#### Références  
+
+La premiere video a 
 
 # Header 1
 ## Header 2
