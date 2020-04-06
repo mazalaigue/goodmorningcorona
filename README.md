@@ -1,7 +1,7 @@
 # Bienvenu sur ce site de publication des videos de la chaine "Good Morning Corona"
 Comme beaucoup, la crise du covid a provoqué en moi le désire de m'exprimer et rendre compte de mon expérience.
 Plutôt que d'utiliser les plateformes des gafa pour héberger mes vidéos je me suis tourné vers des outils Open Source dans une démarche citoyenne responsable et collaborative.
-Ce site minimaliste a donc vocation à publier ces vidéo
+Ce site minimaliste a donc vocation à publier ces vidéos
 
 ## Lancement de la chronique radioponique "Good Morning Corona" 
 ```La nature est plus forte que l'homme```
@@ -11,35 +11,27 @@ Ce site minimaliste a donc vocation à publier ces vidéo
 ### La video 
 
 ### Références  
-Voir vidéo suivante 
+```"Il n'y a pas d'homme en bonne santé sur une planète malade" : le cri d’alarme du WWF sur le coronavirus```
 
-### "Good Morning Corona"  
-#### La video 
-#### Références  
+https://www.franceinter.fr/environnement/il-n-y-a-pas-d-homme-en-bonne-sante-sur-une-planete-malade-le-cri-d-alarme-du-wwf-sur-le-coronavirus
 
-La premiere video a 
 
-# Header 1
-## Header 2
-### Header 3
+## "Good Morning Corona" jour 2
+Au programme :
+- Isabelle Autissier sur France Inter
+### La video 
 
-- Bulleted
-- List
+### Références  
 
-1. Numbered
-2. List
+## "Good Morning Corona" jour 3
+Au programme : 
+- Chronique politique : 
+- revue de presse : 
 
-**Bold** and _Italic_ and `Code` text
+### La video 
 
-[Link](url) and ![Image](src)
-```
+### Références  
+https://blogs.mediapart.fr/mariethe-ferrisi/blog/010420/le-monde-qui-marchait-sur-la-tete-coline-serreau
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mazalaigue/goodmorningcorona/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+Vincent@mazalaigue.net 
